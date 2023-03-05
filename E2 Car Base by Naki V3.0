@@ -15,7 +15,7 @@ if(first()){
     noCollideAll(Base,0)
     
     Inertia = shiftL(ang(Base:inertia()))
-    #_drift_missile
+    
     #include "E2_Car_Base_by_Naki_V3.0_Config_-_s14.5" 
     
     SusProps=array(S1,S2,S3,S4)
