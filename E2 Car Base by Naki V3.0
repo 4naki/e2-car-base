@@ -16,7 +16,7 @@ if(first()){
     
     Inertia = shiftL(ang(Base:inertia()))
     
-    #include "E2_Car_Base_by_Naki_V3.0_Config_-_s14.5" 
+    #include "E2_Car_Base_by_Naki_V3.0_Config_-_s14_5" 
     
     SusProps=array(S1,S2,S3,S4)
     
