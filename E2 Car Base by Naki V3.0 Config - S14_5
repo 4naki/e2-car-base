@@ -1,4 +1,4 @@
-@name E2 Car Base by Naki V3.0 Config - S14.5
+@name E2 Car Base by Naki V3.0 Config - S14_5
 @persist BasePlateHeightOffset RangerHeightOffset [WheelData SuspensionData PosData SusData]:array  [MovementHeightFront MovementHeightBack]:vector2
 @persist [WheelColor SuspensionColor]:vector SuspensionMaterial:string WheelSizeFront WheelSizeBack DriveAxelWidth DriveAxelLength
 @persist SuspensionStrength SuspensionStrength2:vector2 SuspensionDamp BrakeStrength HandbrakeStrength GroundDistance Speed
